@@ -3,7 +3,7 @@
   <tr>
     <td width="60%">
       <h1>Hi 👋, I'm Sanchit</h1>
-      <h3>Crafting full-stack apps and cracking algorithms, one line at a time 💻⚙️</h3>
+      <h3>Crafting full-stack website and cracking algorithms, one line at a time 💻⚙️</h3>
       <p>
         I’m a passionate Full Stack Web Developer who loves building clean, functional apps and solving complex DSA problems.<br><br>
         🌱 Currently learning: TypeScript & Advanced DSA<br>
