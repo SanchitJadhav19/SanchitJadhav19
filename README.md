@@ -1,30 +1,49 @@
-<h1 align="center">Hi 👋, I'm Sanchit</h1>
-<h3 align="center">Crafting full-stack apps and cracking algorithms, one line at a time 💻⚙️</h3>
+<!-- Header with GIF on the right -->
+<table>
+  <tr>
+    <td width="60%">
+      <h1>Hi 👋, I'm Sanchit</h1>
+      <h3>Crafting full-stack apps and cracking algorithms, one line at a time 💻⚙️</h3>
+      <p>
+        I’m a passionate Full Stack Web Developer who loves building clean, functional apps and solving complex DSA problems.<br><br>
+        📫 Reach me at: <a href="mailto:sanchitsj45@gmail.com">sanchitsj45@gmail.com</a><br>
+        🌱 Currently learning: TypeScript & Advanced DSA<br>
+        💬 Ask me about: MERN stack, REST APIs, Git, Algorithms<br>
+        ⚡ Fun fact: I love debugging more than writing code sometimes 😉
+      </p>
+    </td>
+    <td align="center">
+      <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with me
+
 <p align="left">
   <a href="mailto:sanchitsj45@gmail.com" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/sanchit-jadhav-1331312b6" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.codechef.com/users/sanchitsj45" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
   <a href="https://codeforces.com/profile/sanchitsj" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/sanchitsj45" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
+### 🛠️ Languages and Tools
+
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -44,6 +63,8 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitjadhav19&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+### 📊 GitHub Stats
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitjadhav19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
