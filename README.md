@@ -6,7 +6,6 @@
       <h3>Crafting full-stack apps and cracking algorithms, one line at a time 💻⚙️</h3>
       <p>
         I’m a passionate Full Stack Web Developer who loves building clean, functional apps and solving complex DSA problems.<br><br>
-        📫 Reach me at: <a href="mailto:sanchitsj45@gmail.com">sanchitsj45@gmail.com</a><br>
         🌱 Currently learning: TypeScript & Advanced DSA<br>
         💬 Ask me about: MERN stack, REST APIs, Git, Algorithms<br>
         ⚡ Fun fact: I love debugging more than writing code sometimes 😉
