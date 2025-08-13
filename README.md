@@ -1,26 +1,23 @@
-<!-- Header with GIF on the right -->
-<table>
-  <tr>
-    <td width="60%">
-      <h1>Hi 👋, I'm Sanchit</h1>
-      <h3>Crafting full-stack website and cracking algorithms, one line at a time 💻⚙️</h3>
-      <p>
-        I’m a passionate Full Stack Web Developer who loves building clean, functional apps and solving complex DSA problems.<br><br>
-        🌱 Currently learning: TypeScript & Advanced DSA<br>
-        💬 Ask me about: MERN stack, REST APIs, Git, Algorithms<br>
-        ⚡ Fun fact: I love debugging more than writing code sometimes 😉
-      </p>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300"/>
-    </td>
-  </tr>
-</table>
+<!-- Header Section -->
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+  
+  <!-- Text Section -->
+  <div style="flex: 1; min-width: 300px;">
+    <h1>Hi 👋, I'm Sanchit</h1>
+    <h3>Crafting full-stack website and cracking algorithms, one line at a time 💻⚙️</h3>
+    
+  </div>
+  
+  <!-- GIF Section -->
+  <div style="flex: 1; min-width: 250px; text-align: center;">
+    <img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" width="300" style="max-width: 100%; height: auto;" />
+  </div>
+
+</div>
 
 ---
 
 ### 🌐 Connect with me
-
 <p align="left">
   <a href="mailto:sanchitsj45@gmail.com" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" />
@@ -42,8 +39,7 @@
 ---
 
 ### 🛠️ Languages and Tools
-
-<p align="left">
+<p align="left" style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -63,7 +59,6 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitjadhav19&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanchitjadhav19&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="max-width: 100%; height: auto;"/>
 </p>
