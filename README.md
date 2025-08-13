@@ -4,11 +4,10 @@
 <img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" />
 
 ###
-
 <p align="left">
 I’m a passionate Full Stack Web Developer who loves building clean, functional apps and solving complex DSA problems.<br><br>
-🌱 <b>Currently learning:</b> TypeScript & Advanced DSA<br>
-💬 <b>Ask me about:</b> MERN stack, REST APIs, Git, Algorithms<br>
+
+💬 <b>Ask me about:</b> MERN stack, REST APIs, Algorithms<br>
 ⚡ <b>Fun fact:</b> I love debugging more than writing code sometimes 😉
 </p>
 
@@ -35,8 +34,23 @@ I’m a passionate Full Stack Web Developer who loves building clean, functional
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=sanchitjadhav19&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitjadhav19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 🏆 Competitive Programming Profiles
+<p align="left">
+  <a href="https://www.leetcode.com/sanchitsj45" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/sanchitsj45" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/sanchitsj" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
@@ -47,14 +61,5 @@ I’m a passionate Full Stack Web Developer who loves building clean, functional
   </a>
   <a href="https://linkedin.com/in/sanchit-jadhav-1331312b6" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.codechef.com/users/sanchitsj45" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-  </a>
-  <a href="https://codeforces.com/profile/sanchitsj" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sanchitsj45" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Leetcode" height="30" width="40" />
   </a>
 </p>
